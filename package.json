@@ -1,0 +1,12 @@
+{
+  "name": "compus-pitch",
+  "version": "1.0.0",
+  "description": "<img width=\"450\" src=\"readme-images/image-1.png\">",
+  "main": "index.js",
+  "scripts": {
+    "sass": "node-sass ./scss/main.scss ./css/main.css -w"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC"
+}
